@@ -5,28 +5,28 @@
         "make": "vw",
         "type": "golf 5",
         "description":"Verkrijgbaar zijn 6 verschillende benzinemotoren met tot 250 pk en deels met automatische transmissie, 4Motion (vierwielaandrijving) of transmissie met dubbele koppeling. ... Tevens is de Volkswagen Golf V verkrijgbaar als Variant en als Volkswagen Golf Plus.",
-        "3dmodel": "path::"
+        "model": "path::"
       },
       {
         "id": 2,
         "make": "audi",
         "type": "a3",
         "description":"De oorspronkelijk A3 (Typ 8L) werd in Europa geïntroduceerd in 1996 en luidt Audi’s terugkeer naar de productie van compacte familievoertuigen in, na de stopzetting van de Audi 50 in 1978. In 2013 wordt de Audi A3 Auto van het Jaar van het magazine “What Car?”. In 2014 wordt hij daarnaast zelfs verkozen tot World Car of the Year (Wereldauto van het Jaar).",
-        "3dmodel": "path::"
+        "model": "path::"
       },
       {
         "id": 3,
         "make": "kia",
         "type": "optima",
         "description":"De Kia Optima is een middenklasse sedan die al sinds 2000 in productie is. De derde generatie is de eerste die in Nederland via officiële kanalen beschikbaar is. De Optima staat sinds 2012 in de prijslijst met slechts één motorvariant. Het betreft een 1.7 CRDi dieselmotor met 136 pk die naar keuze met handbak of automaat te bestellen is.",
-        "3dmodel": "path::"
+        "model": "path::"
       },
       {
         "id": 4,
         "make": "nissan",
         "type": "qashqai",
         "description":"De Nissan Qashqai is een crossover die sinds 2007 geproduceerd wordt door de Japanse autobouwer Nissan. Hij kwam in de plaats van de Terrano II en ving tegelijk het wegvallen van de Almera op. De Qashqai wordt geassembleerd in de Nissanfabriek in Sunderland.",
-        "3dmodel": "path::"
+        "model": "path::"
       }
     ],
     "comments": [
