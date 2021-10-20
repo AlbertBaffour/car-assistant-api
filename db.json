@@ -32,27 +32,39 @@
     "comments": [
       {
         "id": 1,
-        "username": "carguy",
+        "phone_id": "1234",
         "comment": "kia worden onderschat",
         "car_id": 3
       },
       {
         "id": 2,
-        "username": "carguy2",
+        "phone_id": "1234",
         "comment": "kia heeft slechte klantenservice",
         "car_id": 3
       },
       {
         "id": 3,
-        "username": "cargirl",
+        "phone_id": "2345",
         "comment": "I love golf!",
         "car_id": 1
       },
       {
         "id": 4,
-        "username": "cargirl2",
+        "phone_id": "2345",
         "comment": " golf heeft een geweldige reputatie",
         "car_id": 1
+      }
+    ],
+    "users": [
+      {
+        "id": 1,
+        "phone_id": "1234",
+        "username": "carguy"
+      },
+      {
+        "id": 1,
+        "phone_id": "2345",
+        "username": "cargirl"
       }
     ]
   }
