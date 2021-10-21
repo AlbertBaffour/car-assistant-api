@@ -59,12 +59,14 @@
       {
         "id": 1,
         "phone_id": "1234",
-        "username": "carguy"
+        "username": "carguy",
+        "favourites":[1,2]
       },
       {
         "id": 1,
         "phone_id": "2345",
-        "username": "cargirl"
+        "username": "cargirl",
+        "favourites":[]
       }
     ]
   }
