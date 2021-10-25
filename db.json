@@ -44,13 +44,13 @@
       },
       {
         "id": 3,
-        "phone_id": "2345",
+        "phone_id": "1234",
         "comment": "I love golf!",
         "car_id": 1
       },
       {
         "id": 4,
-        "phone_id": "2345",
+        "phone_id": "1234",
         "comment": " golf heeft een geweldige reputatie",
         "car_id": 1
       }
@@ -64,9 +64,9 @@
       },
       {
         "id": 1,
-        "phone_id": "2345",
+        "phone_id": "1234",
         "username": "cargirl",
-        "favourites":[]
+        "favourites":[3,4]
       }
     ]
   }
