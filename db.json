@@ -32,13 +32,13 @@
     "comments": [
       {
         "id": 1,
-        "phone_id": "1234",
+        "phone_id": "76fc7a460a50cb43",
         "comment": "kia worden onderschat",
         "car_id": 3
       },
       {
         "id": 2,
-        "phone_id": "1234",
+        "phone_id": "76fc7a460a50cb43",
         "comment": "kia heeft slechte klantenservice",
         "car_id": 3
       },
@@ -58,7 +58,7 @@
     "users": [
       {
         "id": 1,
-        "phone_id": "1234",
+        "phone_id": "76fc7a460a50cb43",
         "username": "carguy",
         "favourites":[1,2]
       },
