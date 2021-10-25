@@ -4,28 +4,28 @@
         "id": 1,
         "make": "vw",
         "type": "golf 5",
-        "description":"Verkrijgbaar zijn 6 verschillende benzinemotoren met tot 250 pk en deels met automatische transmissie, 4Motion (vierwielaandrijving) of transmissie met dubbele koppeling. ... Tevens is de Volkswagen Golf V verkrijgbaar als Variant en als Volkswagen Golf Plus.",
+        "description":"Available are 6 different petrol engines with up to 250 hp and partly with automatic transmission, 4Motion (four-wheel drive) or dual clutch transmission. ... The Volkswagen Golf V is also available as a Variant and as a Volkswagen Golf Plus.",
         "model": "path::"
       },
       {
         "id": 2,
         "make": "audi",
         "type": "a3",
-        "description":"De oorspronkelijk A3 (Typ 8L) werd in Europa geïntroduceerd in 1996 en luidt Audi’s terugkeer naar de productie van compacte familievoertuigen in, na de stopzetting van de Audi 50 in 1978. In 2013 wordt de Audi A3 Auto van het Jaar van het magazine “What Car?”. In 2014 wordt hij daarnaast zelfs verkozen tot World Car of the Year (Wereldauto van het Jaar).",
+        "description":"The original A3 (Typ 8L) was introduced in Europe in 1996 and heralds Audi's return to the production of compact family vehicles after the discontinuation of the Audi 50 in 1978. In 2013, the Audi A3 is named Car of the Year by the magazine “What Car?”. In 2014, it was even voted World Car of the Year (World Car of the Year).",
         "model": "path::"
       },
       {
         "id": 3,
         "make": "kia",
         "type": "optima",
-        "description":"De Kia Optima is een middenklasse sedan die al sinds 2000 in productie is. De derde generatie is de eerste die in Nederland via officiële kanalen beschikbaar is. De Optima staat sinds 2012 in de prijslijst met slechts één motorvariant. Het betreft een 1.7 CRDi dieselmotor met 136 pk die naar keuze met handbak of automaat te bestellen is.",
+        "description":"The Kia Optima is a mid-range sedan that has been in production since 2000. The third generation is the first to be available in the Netherlands through official channels. The Optima has been in the price list since 2012 with only one engine variant. It is a 1.7 CRDi diesel engine with 136 hp, which can be ordered with a manual or automatic transmission.",
         "model": "path::"
       },
       {
         "id": 4,
         "make": "nissan",
         "type": "qashqai",
-        "description":"De Nissan Qashqai is een crossover die sinds 2007 geproduceerd wordt door de Japanse autobouwer Nissan. Hij kwam in de plaats van de Terrano II en ving tegelijk het wegvallen van de Almera op. De Qashqai wordt geassembleerd in de Nissanfabriek in Sunderland.",
+        "description":"The Nissan Qashqai is a crossover produced by the Japanese car maker Nissan since 2007. It replaced the Terrano II and at the same time overcame the loss of the Almera. The Qashqai is assembled at Nissan's Sunderland plant.",
         "model": "path::"
       }
     ],
